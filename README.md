@@ -31,3 +31,6 @@ O Modelo Espiral funciona basicamente dessa forma:
 2ºestágio: avaliação de alternativas, solução e execução de riscos;
 3ºestágio:ocorre o desenvolvimento nas atividades, incluindo design, especificação, codificação e verificação;
 4º estagio: compreende a revisão das etapas anteriores e o planejamento da próxima fase.
+
+
+#testing changes...
