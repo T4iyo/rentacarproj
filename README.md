@@ -34,3 +34,5 @@ O Modelo Espiral funciona basicamente dessa forma:
 
 
 #testing changes...
+
+Concluímos que o modelo espiral tem reconhecimento explícito do risco, é o mais realístico possível, pois os usuários, analistas e desenvolvedores possam adquirir maior conhecimento sobre o projeto com decorrer do tempo.
